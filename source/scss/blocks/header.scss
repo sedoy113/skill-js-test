@@ -1,0 +1,28 @@
+.header {
+  padding: 20px 0;
+
+  .container {
+    padding: 0 20px;
+  }
+
+  &__content {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__logo {
+    font-weight: 600;
+    flex-shrink: 0;
+    line-height: 20px;
+    //transition: all $trans-default;
+    display: flex;
+    padding: 10px 20px;
+
+    &.is-menu {
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: $color-default-white;
+      z-index: 25;
+    }
+  }
+}

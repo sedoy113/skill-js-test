@@ -1,0 +1,300 @@
+[
+    {
+        "classes": [
+            "product-card--light-blue"
+        ],
+        "href": "https://skillbox.ru/course/profession-test/",
+        "title": "Инженер по тестированию",
+        "src": "https://lychee.skillbox.cc/uploads/original/22/00/ccd6fd5c9bde8d16547448ea3cb2.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "7 месяцев",
+        "hit": true,
+        "tags": [
+            "#programming"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-purple"
+        ],
+        "href": "https://skillbox.ru/course/profession-webdev/",
+        "title": "Веб-разработчик",
+        "src": "https://lychee.skillbox.cc/uploads/original/b9/9a/dd3005734eaab8648d2f55841a42.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "9 месяцев",
+        "hit": true,
+        "tags": [
+            "#programming"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--dark-yellow"
+        ],
+        "href": "https://skillbox.ru/course/profession-java/",
+        "title": "Java-разработчик",
+        "src": "https://lychee.skillbox.cc/uploads/original/1a/0f/e4896075516c45efcce4a0647310.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "8 месяцев",
+        "tags": [
+            "#programming"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--white"
+        ],
+        "href": "https://skillbox.ru/course/profession-ux/",
+        "title": "UX/UI-дизайнер",
+        "src": "https://lychee.skillbox.cc/uploads/original/bd/61/199347abf30260052654e37b9164.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "12 месяцев",
+        "tags": [
+            "#design"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-green"
+        ],
+        "href": "https://skillbox.ru/course/profession-c-plus-plus/",
+        "title": "Разработчик C++ с нуля",
+        "src": "https://lychee.skillbox.cc/uploads/original/e9/75/56402d036ce72d4baa84f1e95cf2.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "7 месяцев",
+        "tags": [
+            "#programming"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--lightest-blue"
+        ],
+        "href": "https://skillbox.ru/course/profession-data-scientist/",
+        "title": "Data Scientist",
+        "src": "https://lychee.skillbox.cc/uploads/original/53/33/d941c069a6ec92f1619663a61873.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "12 месяцев",
+        "hit": true,
+        "tags": [
+            "#programming"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-grey"
+        ],
+        "href": "https://skillbox.ru/course/profession-webdesigner/",
+        "title": "Веб-дизайнер",
+        "src": "https://lychee.skillbox.cc/uploads/original/3f/a0/ec2a537fd65162a66e283e404856.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "12 месяцев",
+        "hit": true,
+        "tags": [
+            "#design"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--orange"
+        ],
+        "href": "https://skillbox.ru/course/profession-graphdesigner/",
+        "title": "Графический дизайнер",
+        "src": "https://lychee.skillbox.cc/uploads/original/25/fd/0e5b7be500cd3622e25613306192.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "10 месяцев",
+        "tags": [
+            "#design"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--green"
+        ],
+        "href": "https://skillbox.ru/course/profession-python/",
+        "title": "Python-разработчик",
+        "src": "https://lychee.skillbox.cc/uploads/original/fb/f4/49b42cca17e8fece2969d6dcdd58.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "10 месяцев",
+        "hit": true,
+        "tags": [
+            "#programming"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--snow-white"
+        ],
+        "href": "https://skillbox.ru/course/profession-accountant/",
+        "title": "Бухгалтер",
+        "src": "https://lychee.skillbox.cc/uploads/original/93/f1/3c124f5c247e501ffc6b1d31e0e6.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "6 месяцев",
+        "hit": true,
+        "tags": [
+            "#control"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--orange"
+        ],
+        "href": "https://skillbox.ru/course/profession-operation-manager/",
+        "title": "Операционный менеджер",
+        "src": "https://lychee.skillbox.cc/uploads/original/b8/ff/f61afbad31b5da45c93a5c076ec3.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "6 месяцев",
+        "tags": [
+            "#control"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--snow-blue"
+        ],
+        "href": "https://skillbox.ru/course/profession-business-analyst/",
+        "title": "Бизнес-аналитик",
+        "src": "https://lychee.skillbox.cc/uploads/original/f0/41/4009d5a33e0955a8614ade444263.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "8 месяцев",
+        "hit": true,
+        "tags": [
+            "#control"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--winter-blue"
+        ],
+        "href": "https://skillbox.ru/course/profession-marketplace-manager/",
+        "title": "Менеджер маркетплейсов",
+        "src": "https://lychee.skillbox.cc/uploads/original/b7/17/f41c43911825f7fe3a1fd1707b80.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "6 месяцев",
+        "hit": true,
+        "tags": [
+            "#marketing"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-dark-green"
+        ],
+        "href": "https://skillbox.ru/course/profession-target/",
+        "title": "Таргетолог с нуля до PRO",
+        "src": "https://lychee.skillbox.cc/uploads/original/90/61/96f5e1c6405e35e90b8ae961238b.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "12 месяцев",
+        "tags": [
+            "#marketing"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-yellow"
+        ],
+        "href": "https://skillbox.ru/course/profession-ue4/",
+        "title": "Разработчик игр на Unreal Engine с нуля до Middle",
+        "src": "https://lychee.skillbox.cc/uploads/original/d4/12/11e44f6a733fef054162398f7e07.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "12 месяцев",
+        "tags": [
+            "#games"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-purple"
+        ],
+        "href": "https://skillbox.ru/course/profession-unity-middle/",
+        "title": "Разработчик игр на Unity с нуля до Middle",
+        "src": "https://lychee.skillbox.cc/uploads/original/64/c6/f5b091ca0b1690678986e31d2800.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "10 месяцев",
+        "hit": true,
+        "tags": [
+            "#games"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-pink"
+        ],
+        "href": "https://skillbox.ru/course/nutriciologiya/",
+        "title": "Нутрициология",
+        "src": "https://lychee.skillbox.cc/uploads/original/11/22/e208006d826111b1ec8be1b3f7e2.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Профессия",
+        "date": "8 месяцев",
+        "hit": true,
+        "tags": [
+            "#health"
+        ]
+    },
+    {
+        "classes": [
+            "product-card--light-gray"
+        ],
+        "href": "https://courses.skillbox.ru/upravlenie-stressom",
+        "title": "Управление стрессом",
+        "src": "https://lychee.skillbox.cc/uploads/original/3f/88/d1b75b96b54ee1bc5f1ebd48700f.png",
+        "height": "200",
+        "width": "200",
+        "alt": "Иллюстрация продукта",
+        "label": "Курс",
+        "date": "2 месяца",
+        "tags": [
+            "#health"
+        ]
+    }
+]

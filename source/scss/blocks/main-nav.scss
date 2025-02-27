@@ -1,0 +1,76 @@
+.main-nav {
+  flex-grow: 1;
+  margin: 0 0 0 25.65%;
+
+  @include vp-1023 {
+    background-color: $color-default-black;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    opacity: 0;
+    margin: 0;
+    padding: 100px 20px 20px;
+    position: fixed;
+    pointer-events: none;
+    top: 0;
+    transition: all $trans-default;
+    right: 0;
+    visibility: hidden;
+    z-index: 20;
+  }
+
+  &.is-active {
+    opacity: 1;
+    pointer-events: all;
+    visibility: visible;
+
+    .main-nav__item {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  &__list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    @include vp-1023 {
+      flex-direction: column;
+      height: 100%;
+      overflow-y: auto;
+      padding: 80px 0 0;
+    }
+  }
+
+  &__item {
+    margin: 0 10px 0 0;
+
+    @include vp-1023 {
+      margin: 0;
+      opacity: 0;
+      transition: transform ease-out 0.15s, opacity ease-out 0.15s;
+      transform: translateX(-15px);
+    }
+
+    &:not(:last-child) {
+      @include vp-1023 {
+        margin: 0 0 26px 0;
+      }
+    }
+  }
+
+  &__link {
+    color: $color-default-black;
+    display: flex;
+
+    @include vp-1023 {
+      color: $color-default-white;
+      font-size: 30px;
+      line-height: 36px;
+      padding: 0;
+    }
+  }
+}

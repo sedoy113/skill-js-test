@@ -1,0 +1,49 @@
+// Colors
+// ---------------------------------
+
+// Default
+
+$color-default-black:               #000000;
+$color-default-white:               #ffffff;
+$color-transparent:                 rgba(255, 255, 255, 0);
+$color-accent-main: #2c39f2;
+$color-accent-second: #292929;
+
+// Project palette
+$color-neon-blue:                   #2c39f2;
+$color-social-blue:                 #0077ff;
+$color-social-red:                  #fc0d1b;
+$color-blue-gradient: radial-gradient(54.12% 61.85% at 97.49% 48.58%,#2c5bef 0,#0d30cc 100%);
+$blue-to-bottom:                    linear-gradient(180deg, rgba(55, 187, 254, 1) 0%, rgba(0, 125, 187, 1) 100%);
+// Typography
+// ---------------------------------
+$fz-default:                        16px;
+$ff-placeholder:                    "Montserrat", "Arial", sans-serif;
+
+// Animation
+// ---------------------------------
+
+$tf-default:                        ease;
+$trans-default:                     0.3s $tf-default;
+
+// если требуется изинг отличный от $tf-default, то переменную называем не цифрой
+$trans-modal:                       0.6s cubic-bezier(0.55, 0, 0.1, 1);
+
+$trans-600:                         0.6s $tf-default;
+
+// Viewports
+// ---------------------------------
+
+$vp-320:                            320px;
+$vp-375:                            375px;
+$vp-768:                            768px;
+$vp-1024:                           1024px;
+$vp-1280:                           1280px;
+$vp-1440:                           1440px;
+$vp-1920:                           1920px;
+
+// Retina
+// ---------------------------------
+
+$retina-dpi:                        144dpi;
+$retina-dppx:                       1.5dppx;

@@ -1,0 +1,64 @@
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 630px;
+  margin: 0 auto 20px;
+  padding: 0;
+
+  list-style: none;
+
+  &__item {
+    margin: 0 10px 20px 10px;
+  }
+
+  &__link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 60px;
+    position: relative;
+    background: $color-social-blue;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all $trans-default;
+    transform: translateZ(0);
+
+    &::after {
+      content: "";
+      border-radius: 10px;
+      background: $color-blue-gradient;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      transition: all $trans-default;
+      transform: translateZ(0);
+      z-index: 2;
+      opacity: 0;
+    }
+
+    &--youtube {
+      background: $color-social-red;
+    }
+
+    &--telegram {
+      background: $blue-to-bottom;
+    }
+
+    svg {
+      height: 48px;
+      position: relative;
+      width: 48px;
+      z-index: 3;
+    }
+
+    @media (hover: hover) {
+      &:hover::after {
+        opacity: 1;
+      }
+    }
+  }
+}
